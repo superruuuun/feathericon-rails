@@ -12,6 +12,7 @@
   src: url('feathericon.eot');
   src: url('feathericon.eot?#iefix') format('embedded-opentype'),
     url('feathericon.woff') format('woff'),
+    url('feathericon.woff2') format('woff2'),
     url('feathericon.ttf') format('truetype'),
     url('feathericon.svg') format('svg');
   font-weight: normal;
